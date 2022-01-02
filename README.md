@@ -1,4 +1,4 @@
-# string
+# string 
 # Method	Description
 * pop()	Removes the element with the specified key
 * append()	Adds an element at the end of the list
